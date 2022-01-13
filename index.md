@@ -9,7 +9,7 @@
       <button> Download data </button>
     </a>
     <br>
-    <a href="https://github.com/Cuucle-Dev/oxiaworld/tree/main/server-edition"
+    <a href="https://github.com/Cuucle-Dev/oxiaworld/tree/main/server-edition">
        <button> Download server </button>
   </a>
 </center>
