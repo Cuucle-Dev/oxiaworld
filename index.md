@@ -1,7 +1,4 @@
-
-
-<center> 
-  <h1> OXIA World Recources </h1> 
+<h1> OXIA World Recources </h1> 
   <a href="https://data.cuucle.repl.co/oxia/launcher-redirerctor/">
   <button> Download launcher <button>
     </a>
@@ -13,4 +10,3 @@
     <a href="https://github.com/Cuucle-Dev/oxiaworld/tree/main/server-edition">
        <button> Download server </button>
   </a>
-</center>
